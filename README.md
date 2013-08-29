@@ -57,7 +57,7 @@ On marketing & metrics:
 - [Hacker Newsletter](http://www.hackernewsletter.com/) - Weekly newsletter of the best articles from [HackerNews](https://news.ycombinator.com/)
 - [Betali.st](http://betali.st/) - Be the first to discover and get access to the latest internet startups. A good place to submit your startup.
 - [Startupli.st](http://startupli.st/) - A place to find, follow, and recommend startups. It naturally caters to early adopters. A good place to submit your startup.
-- [Kickoffboost](www.kickoffboost.com) - Explore thousands of just-launched products. A good place to submit your startup.
+- [Kickoffboost](http://www.kickoffboost.com) - Explore thousands of just-launched products. A good place to submit your startup.
 - [Launchbit](http://www.launchbit.com/) - An email ad network that can promote your startup.
 - [Erlibird](http://erlibird.com/) - A site for early adopters to discover startups.
 
